@@ -2,6 +2,8 @@
 I am currently learning about computer systems, and my some of my project smay be worked on this site! 
 I am currently working on a few projects related to my Java and C++ classes. 
 My favorite hobby is playing video games, but I also really enjoy reading. 
+So far with Github, I have enjoyed learning about how every piece of it works and connects. I am excited to learn more as time goes on.  
+### Thank you for visiting my profile!
 <!--
 **EmilyGibbons1/EmilyGibbons1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
