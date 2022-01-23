@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently learning about computer systems, and my some of my project smay be worked on this site! 
+I am currently learning about computer systems, and my some of my projects may even be completed on this site! 
 I am currently working on a few projects related to my Java and C++ classes. 
 My favorite hobby is playing video games, but I also really enjoy reading. 
 So far with Github, I have enjoyed learning about how every piece of it works and connects. I am excited to learn more as time goes on.  
